@@ -13,6 +13,9 @@
 ***
 **各参数定义如下：**
 *serverip:NPQ serverIP*
+
 *ImangeName:NPQ server上image的名字*
+
 *url:要下载的firmware的url*
+
 *mac_list:放行的mac地址，可以有多个，以";"分割*
