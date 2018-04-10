@@ -6,7 +6,7 @@
 * 通过http：
 > upload.cgi -wget url
 
-## 认证成功后，告知AP放行哪行sta
+## 认证成功后，告知AP放行的sta
 * 通过如下命令：
 > firewall.cgi accept mac_list
 
