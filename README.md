@@ -12,6 +12,7 @@
 
 ***
 **各参数定义如下：**
+
 *serverip:NPQ serverIP*
 
 *ImangeName:NPQ server上image的名字*
